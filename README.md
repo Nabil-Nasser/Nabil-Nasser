@@ -14,23 +14,17 @@
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 
+
+
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/nabil-nasser-eldin" target="_blank"><img src="https://img.shields.io/badge/-Nabil%20Nasser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nabilnasser850@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Nabil%20Nasser-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nabil-nasser-eldin/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:nabilnasser850@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
+<a href="https://drive.google.com/file/d/1CBXcgVE7_n6ZEmOLGqc1KkPbpD0GK24B/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-yellow.svg?style=plastic&logo=google-drive&logoColor=white" alt="Resume"/>
+</a>
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/nabil-nasser-eldin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:nabilnasser850@gmail.com" target="_blank" style="margin-left: 10; text-decoration: none;">
-   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" />
-  </a>
-</p>
 
 
 ### 🛠 &nbsp;Tech Stack
