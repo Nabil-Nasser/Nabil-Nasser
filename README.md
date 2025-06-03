@@ -19,6 +19,22 @@
 <a href="https://linkedin.com/in/nabil-nasser-eldin" target="_blank"><img src="https://img.shields.io/badge/-Nabil%20Nasser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nabilnasser850@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Nabil%20Nasser-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/nabil-nasser-eldin" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nabil Nasser" height="30" width="40" />
+  </a>
+  <a href="mailto:nabilnasser850@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+</p>
+
+
+
+
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
